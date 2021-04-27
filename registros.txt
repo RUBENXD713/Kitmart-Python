@@ -1,0 +1,339 @@
+
+movimiento: No Detecto Movimiento, humedad: 20.0,temperatura: 30.0, distancia: 0.2943992614746094
+movimiento: No Detecto Movimiento, humedad: 20.0,temperatura: 30.0, distancia: 0.2575993537902832
+movimiento: No Detecto Movimiento, humedad: 20.0,temperatura: 30.0, distancia: 0.2862215042114258
+movimiento: No Detecto Movimiento, humedad: 20.0,temperatura: 30.0, distancia: 0.2657771110534668
+movimiento: No Detecto Movimiento, humedad: 20.0,temperatura: 30.0, distancia: 0.23715496063232422
+movimiento: No Detecto Movimiento, humedad: 20.0,temperatura: 30.0, distancia: 0.24124383926391602
+movimiento: No Detecto Movimiento, humedad: 20.0,temperatura: 30.0, distancia: 0.31893253326416016
+movimiento: No Detecto Movimiento, humedad: 20.0,temperatura: 30.0, distancia: 0.2903103828430176
+movimiento: No Detecto Movimiento, humedad: 20.0,temperatura: 30.0, distancia: 0.31075477600097656
+movimiento: No Detecto Movimiento, humedad: 20.0,temperatura: 30.0, distancia: 0.2657771110534668
+movimiento: No Detecto Movimiento, humedad: 20.0,temperatura: 30.0, distancia: 0.31893253326416016
+movimiento: No Detecto Movimiento, humedad: 20.0,temperatura: 30.0, distancia: 0.2862215042114258
+movimiento: No Detecto Movimiento, humedad: 20.0,temperatura: 30.0, distancia: 0.30666589736938477
+movimiento: No Detecto Movimiento, humedad: 15.0,temperatura: 30.0, distancia: 0.30257701873779297
+movimiento: No Detecto Movimiento, humedad: 15.0,temperatura: 30.0, distancia: 0.2862215042114258
+movimiento: No Detecto Movimiento, humedad: 15.0,temperatura: 30.0, distancia: 0.2862215042114258
+movimiento: No Detecto Movimiento, humedad: 15.0,temperatura: 30.0, distancia: 0.2862215042114258
+movimiento: No Detecto Movimiento, humedad: 15.0,temperatura: 30.0, distancia: 0.20444393157958984
+movimiento: No Detecto Movimiento, humedad: 18.0,temperatura: 30.0, distancia: 0.2903103828430176
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.2862215042114258
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.2862215042114258
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.2943992614746094
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.2453327178955078
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.30666589736938477
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.2698659896850586
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.30666589736938477
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.2862215042114258
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.282132625579834
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.282132625579834
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.30257701873779297
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.2943992614746094
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.2903103828430176
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.2903103828430176
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.30666589736938477
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.2903103828430176
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.2780437469482422
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 30.0, distancia: 0.29848814010620117
+movimiento: No Detecto Movimiento, humedad: 29.0,temperatura: 27.0, distancia: 0.2739548683166504
+movimiento: No Detecto Movimiento, humedad: 29.0,temperatura: 27.0, distancia: 0.31893253326416016
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 27.0, distancia: 0.2903103828430176
+movimiento: No Detecto Movimiento, humedad: 14.0,temperatura: 27.0, distancia: 0.3925323486328125
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 26.0, distancia: 0.31075477600097656
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.29848814010620117
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.2903103828430176
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 27.0, distancia: 0.3720879554748535
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.29848814010620117
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.31893253326416016
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 26.0, distancia: 0.29848814010620117
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.29848814010620117
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.2862215042114258
+movimiento: No Detecto Movimiento, humedad: 143.0,temperatura: 26.0, distancia: 0.2780437469482422
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.30257701873779297
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.2943992614746094
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 13.0, distancia: 0.30257701873779297
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 27.0, distancia: 0.35573244094848633
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 27.0, distancia: 0.30666589736938477
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 27.0, distancia: 0.29848814010620117
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 26.0, distancia: 0.30666589736938477
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 26.0, distancia: 0.31893253326416016
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 26.0, distancia: 0.3679990768432617
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 27.0, distancia: 0.30666589736938477
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 26.0, distancia: 0.2943992614746094
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 26.0, distancia: 0.31484365463256836
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 26.0, distancia: 0.31075477600097656
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 26.0, distancia: 0.2739548683166504
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 26.0, distancia: 0.31484365463256836
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 26.0, distancia: 0.282132625579834
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.282132625579834
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 26.0, distancia: 0.45386552810668945
+movimiento: No Detecto Movimiento, humedad: None,temperatura: 27.0, distancia: 0.3761768341064453
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.2575993537902832
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.2657771110534668
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 26.0, distancia: 0.31484365463256836
+movimiento: No Detecto Movimiento, humedad: 30.0,temperatura: 26.0, distancia: 0.35573244094848633
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.32711029052734375
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.33937692642211914
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.30257701873779297
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.20035505294799805
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 13.0, distancia: 0.35164356231689453
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.3639101982116699
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.20444393157958984
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.2698659896850586
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.2739548683166504
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.4088878631591797
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.3679990768432617
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.20853281021118164
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.3598213195800781
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.2657771110534668
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.31484365463256836
+movimiento: No Detecto Movimiento, humedad: 31.0,temperatura: 26.0, distancia: 0.32711029052734375
+movimiento: No Detecto Movimiento, humedad: 32.0,temperatura: 26.0, distancia: 0.3884434700012207
+movimiento: No Detecto Movimiento, humedad: 32.0,temperatura: 26.0, distancia: 0.32711029052734375
+movimiento: No Detecto Movimiento, humedad: 32.0,temperatura: 26.0, distancia: 0.32302141189575195
+movimiento: No Detecto Movimiento, humedad: 32.0,temperatura: 26.0, distancia: 0.3679990768432617
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: 1, humedad: 2,temperatura: 20, distancia: 100
+movimiento: No Detecto Movimiento, humedad: 20.0,temperatura: 27.0, distancia: 0.2903103828430176
+movimiento: No Detecto Movimiento, humedad: 18.0,temperatura: 27.0, distancia: 0.4170656204223633
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: None, distancia: 0.31893253326416016
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 27.0, distancia: 0.3802657127380371
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 27.0, distancia: 0.3843545913696289
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: None, distancia: 0.45386552810668945
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: None, distancia: 0.3679990768432617
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 27.0, distancia: 0.30666589736938477
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 27.0, distancia: 0.4047989845275879
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 27.0, distancia: 0.32302141189575195
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 27.0, distancia: 0.2453327178955078
+movimiento: No Detecto Movimiento, humedad: None,temperatura: 27.0, distancia: 0.35573244094848633
+movimiento: No Detecto Movimiento, humedad: None,temperatura: 28.0, distancia: 0.3884434700012207
+movimiento: No Detecto Movimiento, humedad: None,temperatura: None, distancia: 0.6051540374755859
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 27.0, distancia: 0.31893253326416016
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 27.0, distancia: 0.5111098289489746
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 27.0, distancia: 1.1407971382141113
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 28.0, distancia: 0.32711029052734375
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 28.0, distancia: 0.32711029052734375
+movimiento: No Detecto Movimiento, humedad: 17.0,temperatura: 27.0, distancia: 0.33119916915893555
+movimiento: No Detecto Movimiento, humedad: 18.0,temperatura: 27.0, distancia: 0.2943992614746094
+Humedad: 17.0
+Temperatura: 27.0
+Ultrasonico: 0.3884434700012207
+Pir: No Detecto Movimiento
+Humedad2: 17.0
+Ultrasonico Cochera: 0.31893253326416016
+Pir Cuarto 1 : No Detecto Movimiento
+Ultrasonico 657567: 0.2903103828430176
+Humedad: 17.0
+Temperatura: 27.0
+Ultrasonico: 0.32302141189575195
+Pir: No Detecto Movimiento
+Humedad2: 17.0
+Ultrasonico Cochera: 0.30666589736938477
+Pir Cuarto 1 : No Detecto Movimiento
+Ultrasonico 657567: 0.2943992614746094
+Humedad: 17.0
+Temperatura: 28.0
+Ultrasonico: 0.3598213195800781
+Pir: No Detecto Movimiento
+Humedad2: 17.0
+Ultrasonico Cochera: 0.34346580505371094
+Pir Cuarto 1 : No Detecto Movimiento
+Ultrasonico 657567: 0.3598213195800781
+Humedad: 17.0
+Temperatura: 27.0
+Ultrasonico: 0.35164356231689453
+Pir: No Detecto Movimiento
+Humedad2: 18.0
+Ultrasonico Cochera: 0.29848814010620117
+Pir Cuarto 1 : No Detecto Movimiento
+Ultrasonico 657567: 0.5519986152648926
+Humedad: 17.0
+Humedad: 17.0
+Temperatura: 27.0
+Ultrasonico: 0.4129767417907715
+Pir: No Detecto Movimiento
+Humedad2: 17.0
+Ultrasonico Cochera: 0.44568777084350586
+Pir Cuarto 1 : No Detecto Movimiento
+Ultrasonico 657567: 0.2903103828430176
+Humedad: 17.0
+Temperatura: 27.0
+Ultrasonico: 0.3679990768432617
+Pir: No Detecto Movimiento
+Humedad2: 17.0
+Ultrasonico Cochera: 0.3679990768432617
+Pir Cuarto 1 : No Detecto Movimiento
+Ultrasonico 657567: 0.2943992614746094
+Humedad: 17.0
+Temperatura: 27.0
+Ultrasonico: 0.3843545913696289
+Pir: No Detecto Movimiento
+Humedad2: 17.0
+Ultrasonico Cochera: 0.3966212272644043
+Humedad: 17.0
+Temperatura: 27.0
+Ultrasonico: 0.3720879554748535
+Pir: No Detecto Movimiento
+Humedad2: 17.0
+Ultrasonico Cochera: 0.34755468368530273
+Pir Cuarto 1 : No Detecto Movimiento
+Ultrasonico 657567: 0.31075477600097656
+Humedad: 18.0
+Temperatura: 27.0
+Ultrasonico: 0.30666589736938477
+Pir: No Detecto Movimiento
+Humedad2: 17.0
+Ultrasonico Cochera: 0.31484365463256836
+Pir Cuarto 1 : No Detecto Movimiento
+Ultrasonico 657567: 0.30666589736938477
+Humedad: 17.0
+Temperatura: 27.0
+Ultrasonico: 0.3761768341064453
+Pir: No Detecto Movimiento
+Humedad2: 17.0
+Ultrasonico Cochera: 0.30257701873779297
+Pir Cuarto 1 : No Detecto Movimiento
+Ultrasonico 657567: 0.31484365463256836
+Humedad: 17.0
+Temperatura: 27.0
+Ultrasonico: 0.32302141189575195
+Pir: No Detecto Movimiento
+Humedad2: 17.0
+Ultrasonico Cochera: 0.31893253326416016
+Pir Cuarto 1 : No Detecto Movimiento
+Ultrasonico 657567: 0.4211544990539551
+Humedad: 17.0
+Temperatura: 27.0
+Ultrasonico: 0.34755468368530273
+Pir: No Detecto Movimiento
+Humedad2: 17.0
+Ultrasonico Cochera: 0.23306608200073242
+Pir Cuarto 1 : No Detecto Movimiento
+Ultrasonico 657567: 0.35164356231689453
+Humedad: 17.0
+Temperatura: 27.0
+Ultrasonico: 0.3679990768432617
+Pir: No Detecto Movimiento
+Humedad2: 18.0
+Ultrasonico Cochera: 0.3679990768432617
+Pir Cuarto 1 : No Detecto Movimiento
+Ultrasonico 657567: 0.3843545913696289
+Humedad: 18.0
+Temperatura: 28.0
+Humedad: 20.0fecha y hora: 2021-03-05 14:34:52.505959
+Humedad: 21.0fecha y hora: None
+Humedad: 21.0fecha y hora: None
+Humedad: 21.0fecha y hora: None
+Temperatura: 21.0fecha y hora: None
+Ultrasonico: 21.0fecha y hora: None
+Pir: 21.0fecha y hora: None
+Humedad2: 21.0fecha y hora: None
+Ultrasonico Cochera: 21.0fecha y hora: None
+Pir Cuarto 1 : 21.0fecha y hora: None
+Ultrasonico 657567: 21.0fecha y hora: None
+Humedad: 21.0fecha y hora: None
+Temperatura: 21.0fecha y hora: None
+Ultrasonico: 21.0fecha y hora: None
+Pir: 21.0fecha y hora: None
+Humedad2: 21.0fecha y hora: None
+Ultrasonico Cochera: 21.0fecha y hora: None
+Pir Cuarto 1 : 21.0fecha y hora: None
+Ultrasonico 657567: 21.0fecha y hora: None
+Humedad: 21.0fecha y hora: None
+Temperatura: 21.0fecha y hora: None
+Ultrasonico: 21.0fecha y hora: None
+Pir: 21.0fecha y hora: None
+Humedad2: 21.0fecha y hora: None
+Ultrasonico Cochera: 21.0fecha y hora: None
+Pir Cuarto 1 : 21.0fecha y hora: None
+Ultrasonico 657567: 21.0fecha y hora: None
+Humedad: 20.0fecha y hora: None
+Temperatura: 20.0fecha y hora: None
+Ultrasonico: 20.0fecha y hora: None
+Pir: 20.0fecha y hora: None
+Humedad2: 20.0fecha y hora: None
+Ultrasonico Cochera: 20.0fecha y hora: None
+Pir Cuarto 1 : 20.0fecha y hora: None
+Ultrasonico 657567: 20.0fecha y hora: None
+Humedad: 20.0fecha y hora: None
+Temperatura: 20.0fecha y hora: None
+Ultrasonico: 20.0fecha y hora: None
+Pir: 20.0fecha y hora: None
+Humedad2: 20.0fecha y hora: None
+Humedad: 20.0fecha y hora: None
+Temperatura: 20.0fecha y hora: None
+Ultrasonico: 20.0fecha y hora: None
+Pir: 20.0fecha y hora: None
+Humedad2: 21.0fecha y hora: None
+Ultrasonico Cochera: 21.0fecha y hora: None
+Pir Cuarto 1 : 21.0fecha y hora: None
+Ultrasonico 657567: 21.0fecha y hora: None
+Humedad: 20.0fecha y hora: None
+Temperatura: 20.0fecha y hora: None
+Ultrasonico: 20.0fecha y hora: None
+Pir: 20.0fecha y hora: None
+Humedad2: 21.0fecha y hora: None
+Ultrasonico Cochera: 21.0fecha y hora: None
